@@ -1,0 +1,6 @@
+user_id,disposable_income,luxury_spending,financial_health_score,defaulted
+001,80,20,100,No
+002,50,10,60,No
+003,90,40,130,No
+004,30,5,35,Yes
+005,70,25,95,No
