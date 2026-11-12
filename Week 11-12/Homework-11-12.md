@@ -1,4 +1,4 @@
-Describe what this code is doing. It is intended to work inside a jupyter notebook.  In this problem, you may use AI such as TerrierGPT however you like to understand the code.  However, your description must be in your own words, not the AI’s words.  Please provide (1) a screenshot of the code working, (2) the AI’s output in its own words and (3) your own words to show that you have rephrased and understood what the AI said. 
+1. Describe what this code is doing. It is intended to work inside a jupyter notebook.  In this problem, you may use AI such as TerrierGPT however you like to understand the code.  However, your description must be in your own words, not the AI’s words.  Please provide (1) a screenshot of the code working, (2) the AI’s output in its own words and (3) your own words to show that you have rephrased and understood what the AI said. 
 
  
 
@@ -900,15 +900,15 @@ refresh_dashboard()
 
  
 
-Create some code, similar to the above, that monitors for distribution drift, using AI.  Provide the code.  Show multiple screenshots of the code working, including a dashboard.  In this problem (only) you may use AI such as TerrierGPT to write the code.  Please provide (1) the screenshots, (2) the AI’s code, (3) the prompt(s) you used to get the AI to write the code.  If you just say “create some code that monitors for distribution drift,” you will not get full points.  You should be more specific than that and help the AI know what to do.. 
+2. Create some code, similar to the above, that monitors for distribution drift, using AI.  Provide the code.  Show multiple screenshots of the code working, including a dashboard.  In this problem (only) you may use AI such as TerrierGPT to write the code.  Please provide (1) the screenshots, (2) the AI’s code, (3) the prompt(s) you used to get the AI to write the code.  If you just say “create some code that monitors for distribution drift,” you will not get full points.  You should be more specific than that and help the AI know what to do.
 
  
 
-You are preparing to update a production AI support triage assistant by changing its prompt, retrieval source, and routing rules. You write an LLM prompt asking it to explain whether to use a golden test set, a regression harness, or shadow testing to help the team decide whether the updated system is safe to release.  The LLM should be asked to suggest the best approach(es) for your particular problem. 
+3, You are preparing to update a production AI support triage assistant by changing its prompt, retrieval source, and routing rules. You write an LLM prompt asking it to explain whether to use a golden test set, a regression harness, or shadow testing to help the team decide whether the updated system is safe to release.  The LLM should be asked to suggest the best approach(es) for your particular problem. 
 
  
 
-Below are five potential prompts..  Please explain which is the best (place them in order of increasing quality), and why.  It’s more important to explain why than to get the exact right order. 
+Below are five potential prompts.  Please explain which is the best (place them in order of increasing quality), and why.  It’s more important to explain why than to get the exact right order. 
 
 V - “We are updating a production AI support triage assistant by changing its prompt, retrieval source, and routing rules. Compare golden sets, regression harnesses, and shadow testing, and recommend the best release-checking approach.” 
 
